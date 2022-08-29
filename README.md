@@ -1,9 +1,10 @@
 # sms-spam-classification
 
-Author - Muhammad Yaseen
-Email - muranbhai41@gmail.com
-Portfolio - https://yaseenml.github.io/portfolio/
+Author - Muhammad Yaseen <br />
+Email - muranbhai41@gmail.com <br />
+Portfolio - https://yaseenml.github.io/portfolio/ <br />
 
-# Output:
+# Output: <br />
 
-![alt text](outputs/spam.jpeg)
+![alt text](outputs/spam.jpeg) <br />
+![alt text](outputs/not-spam.jpeg)
